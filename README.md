@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 + 🌱blog: [https://seonbab.github.io/](https://seonbab.github.io/)
 + 📫email: <tjsnr3180@gmail.com>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonBab&count_private=true&show_icons=true&theme=swift)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonBab&count_private=true&show_icons=true&theme=swift)
