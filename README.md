@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SeonBab/SeonBab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonBab&count_bg=%23000000&title_bg=%233A3A3A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Hi there 👋
+
+클라이언트 프로그래머를 꿈꾸는 김선국입니다!
+
++ 🌱blog: [https://seonbab.github.io/](https://seonbab.github.io/)
++ 📫email: <tjsnr3180@gmail.com>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonBab&count_private=true&show_icons=true&theme=swift)]
